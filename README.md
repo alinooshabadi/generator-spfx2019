@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-sp-2019 using [npm](http
 
 ```bash
 npm install -g yo
-npm install -g generator-sp-2019
+npm install -g generator-spfx2019
 ```
 
 Then generate your new project:
 
 ```bash
-yo sp-2019
+yo spfx2019
 ```
 
 ## Getting To Know Yeoman

@@ -1,12 +1,12 @@
 {
-  "name": "generator-sp-2019",
+  "name": "generator-spfx2019",
   "version": "0.0.0",
   "description": "SPFx generator for SharePoint on-premise 2019",
   "homepage": "",
   "author": {
     "name": "Ali Nooshabadi",
     "email": "ali.nooshabadi@gmail.com",
-    "url": ""
+    "url": "https://github.com/alinooshabadi/generator-spfx2019"
   },
   "files": [
     "generators"
