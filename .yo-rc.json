@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ali Nooshabadi",
+      "authorEmail": "ali.nooshabadi@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
